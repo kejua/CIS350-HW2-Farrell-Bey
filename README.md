@@ -10,8 +10,3 @@
 
 I first started coding in html in a class in high school. A while after I learned Java and C/C++. During Lockdown I gained some experinece in Python and Verilog. I mainly have experince in Java and C/C++ though.  
 
-
-
-## Prerequisites
-
-## Run Instructions
