@@ -1,13 +1,15 @@
-# TrailHoppers
+# CIS350-HW2-Farrell-Bey
 
-Project description (~1 paragraph)
+## KeJuan Farrell-Bey
 
-## Team Members and Roles
+* I enjoy playing video games on console & PC
+* I like to play any kind of sport as long as it's competitive
+* I would like to travel to get to experience different cultures
 
-* [Kassidy Ricketson](https://github.com/ricketsk/CIS-350-HW2-Ricketson) (Role 1, Role 2)
-* [Saif Fayed](https://github.com/saiffayed/CIS350-HW2-Fayed) (Role 3, Role 4)
-* [Liam Mazure](https://github.com/Mazureli/CIS350-HW2-Mazure) (Role 5, Role 6)
-* [KeJuan Farrell-Bey](https://github.com/kejua/CIS350-HW2-Farrell-Bey) (Role 7, Role 8)
+## Technical Background
+
+I first started coding in html in a class in high school. A while after I learned Java and C/C++. During Lockdown I gained some experinece in Python and Verilog. I mainly have experince in Java and C/C++ though.  
+
 
 
 ## Prerequisites
